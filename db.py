@@ -3,7 +3,7 @@ try:
     connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Skirithi@3186",
+        password="YOUR_PASSWORD"
         database="expense_tracker"
     )
 
