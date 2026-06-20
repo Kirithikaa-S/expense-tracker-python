@@ -1,4 +1,7 @@
 # Expense Tracker using Python and MySQL
+## Intern Details
+- Name: Kirithikaa S
+- Intern ID: CITS2745
 
 ## Features
 - Add Expense
